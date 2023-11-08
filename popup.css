@@ -1,0 +1,15 @@
+body {
+    width: 150px;
+    text-align: center;
+    padding: 5;
+}
+
+.name {
+    font-size: 20;
+    text-wrap: nowrap;
+}
+
+#startBtn {
+    margin-top: 10px;
+    width: 100%;
+}
